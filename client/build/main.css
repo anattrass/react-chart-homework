@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ITunes_12.2_logo.png/600px-ITunes_12.2_logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-color: #f0f0f5
+}
+
+.chart {
+  margin-right: 50%;
+  text-align: center;
+  color: dodgerBlue;
+ 
+}
+
+.song {
+  color: #8600b3;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
